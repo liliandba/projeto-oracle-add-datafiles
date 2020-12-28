@@ -1,5 +1,5 @@
 # db_config.py
-user = "lilian"
+user = "c##lilian"
 pw = "lilian123"
-dsn = "localhost/XE"
+dsn = "localhost/orclpdb1"
 
